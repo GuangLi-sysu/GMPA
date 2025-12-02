@@ -43,7 +43,7 @@ This method detects money laundering in cryptocurrency networks by:
 
 ## 📁 Datasets
 
-The code expects the following datasets in the `data/` directory:
+The code expects the following datasets in the `data/` directory. You can download used datasets from Google driver (https://drive.google.com/drive/folders/1vrRfvVfl2fFv2kSTCxUEZMCU-3-JwIf5). 
 
 Each dataset should be a PyTorch file containing:
 - `x`: Node features tensor
